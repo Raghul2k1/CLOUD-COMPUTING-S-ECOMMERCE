@@ -35,7 +35,7 @@ JSP
 MySql
 
 **================ Software And Tools Required ================**
-: Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
+: Amazon Web Server , AWS NET BEANSTALK
 : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
 : Eclipse EE (Enterprise Edition) [https://www.youtube.com/watch?v=8aDsEV7txXE]
 : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
