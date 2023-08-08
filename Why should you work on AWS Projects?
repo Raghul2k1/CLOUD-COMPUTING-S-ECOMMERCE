@@ -1,0 +1,100 @@
+                                                              What is AWS?
+
+AWS is a secure cloud computing platform that provides cloud computing, databases, networking, content storage, etc. 
+AWS offers improved flexibility and security to the customers.
+The core infrastructure is formed to meet the security requirements for various applications developed using the services and the platform. 
+As illustrated in the figure below, AWS offers a wide range of services classified into different types and categories.
+
+                                                      Applications of AWS Projects 
+
+AWS projects have a broad array of applications. 
+It is possible to quickly develop and deploy AWS real-time projects for fundamental to advanced applications. 
+Any cloud computing professional can design AWS cloud projects and AWS enterprise projects using these services. 
+Amazon Elastic Compute Cloud, EC2, enables users to rent virtual computing resources to run their applications. 
+AWS Lambda is another foundation service for serverless computing. 
+AWS users can run code without worrying about managing the services or creating workload-aware cluster scaling logic.
+AWS Lambda projects are popular as they require zero administration. Internet of Things, IoT is one of the emerging technologies.
+AWS resources offer immense opportunities in AWS IoT projects as well. 
+AWS has exceptional flexibility to select the desired operating system, database, and other services. 
+The virtual environment provides the capabilities to load the services and the software as per the application needs. 
+The migration process from an existing platform to an AWS-based solution is also easy—security, reliability, and ease of use are other attributes attached to AWS projects and applications. 
+
+                                                   Why should you work on AWS Projects?
+
+AWS platform allows the user to use cloud computing models, such as Infrastructure as a Service, IaaS, Platform as a Service, PaaS, and Software as a Service, SaaS. 
+Cloud Computing technologies are now an integral part of business processes and operations.
+The projects on AWS can assist in developing skills in cloud computing and the other advanced and significant technologies, such as IoT, AI, and many more. 
+AWS projects for beginners can allow professionals to explore the various service offerings.
+They can also assist in developing and enhancing web development, hosting, design, and deployment skills. 
+Data management and handling is another area that can be explored and improved by working on these project ideas. 
+Many of the open-source projects on AWS are available and can provide a better understanding. 
+Professionals can also enhance their skill-sets by working on these AWS freelance projects.
+
+1. What are AWS projects?
+
+Build an AWS ETL Data Pipeline in Python on YouTube Data- This AWS project entails organizing, streamlining, and analyzing structured and semi-structured YouTube video data based on video categories and trending metrics in a secure manner. Use the YouTube trending video dataset from Kaggle, which contains statistics (CSV files) on popular YouTube videos daily for several months.
+
+AWS Snowflake Data Pipeline Example using Kinesis and Airflow- In this project, you will build a data pipeline that starts with EC2 logs and ends with Snowflake and S3 post-transformation and Airflow DAGs processing. Use two different data files (for example, customers and orders) to implement this project.
+
+AWS Project-Website Monitoring using AWS Lambda and Aurora- This AWS project entails real-time monitoring of webpages by employing various AWS services like Lambda, Aurora MySQL, Amazon Dynamo DB, and Kinesis to monitor your website.
+
+2. How do you create a project in AWS?
+
+Step 1- Log in to the AWS Management Console and go to console.aws.amazon.com to access the Amazon Pinpoint console.
+
+Step 2- It will take first-time users to a page that walks them through the platform's functions. Choose Create a project from the Get started section after giving your project a name. Existing users choose the option Create a project from the All projects page and enter a name for your project in the Project name box.
+
+Step 3- Choose Configure next to Email on the Configure features page.
+
+Step 4- Fill in the Email address field with the email address for user authentication (personal email address or work email address) you want to send emails. Then, select Verify.
+
+Step 5- You will receive an email from Amazon Web Services with the subject line "Amazon Web Services – Email Address Verification Request in region RegionName," where RegionName is the name of the AWS Region in which Amazon Pinpoint is configured.
+
+Step 7- After opening the email, click the link in the email's body.
+
+Step 8- Head back to the Amazon Pinpoint console in your browser. Choose Save on the Setup email page.
+
+Is AWS easy to learn?
+
+Yes, AWS is easy to learn. Learning AWS is easy if you have a good understanding of the fundamentals of cloud computing. Referring to AWS documentation, YouTube videos, and working on hands-on real-time AWS projects are some of the best ways to learn AWS. 
+
+3. Where can I find AWS Projects for Practice?
+You will find various unique and exciting AWS projects for practice on ProjectPro, Github, etc.
+
+4. How do I practice AWS Projects?
+Setting up the AWS Account on the Free Tier is one of the best ways to practice AWS projects. Customers can use it to try out AWS services for free, up to the limits set for each service.
+
+5. How long does it take to learn AWS?
+If you put in at least 2 to 3 hours each day and have fundamental IT and networking abilities, it will take 2 to 3 months to learn AWS.
+
+6. How do I learn AWS from scratch?
+You can learn AWS from scratch with the freely-accessible AWS Training center. You can proceed further by attending AWS events, webinars, workshops, etc. You can check out Youtube tutorials and free AWS courses. Once you have gained sufficient theoretical knowledge, it's time to put them into practice. You will find some interesting industry-relevant AWS projects on ProjectPro, Github, etc.
+
+7. How can I take up Open AWS Projects?
+To take up open AWS projects, you can start by joining online communities and forums related to AWS. There, you can find open-source projects that need contributors. You can also search for GitHub repositories that use AWS services and contribute to them. Additionally, you can participate in hackathons and online coding competitions that involve AWS technologies.
+
+8. How to build a Portfolio for AWS Projects?
+To build a portfolio for AWS projects, start by identifying projects that align with your interests and skills. Build small applications that demonstrate your ability to use AWS services such as EC2, S3, and Lambda. Document your projects with code samples, screenshots, and brief descriptions. Publish your portfolio on platforms like GitHub or LinkedIn to showcase your skills to potential employers.
+
+9. What are Some Small Projects using AWS that Will Be Good for Resume?
+Here are some small projects using AWS that would be good for a resume:
+
+Build a serverless web application using AWS Lambda and API Gateway.
+
+Create a static website using AWS S3 and CloudFront.
+
+Set up a continuous deployment pipeline using AWS CodePipeline and CodeDeploy.
+
+Develop a chatbot using AWS Lex and Lambda.
+
+Implement a database using AWS DynamoDB and Lambda.
+
+10. What are Some Best Practices for AWS Project Development and Deployment?
+Here are some best practices for AWS project development and deployment:
+
+
+Use infrastructure as code to manage your AWS resources and configurations.
+Implement security best practices, including least privilege access and encryption.
+Test your applications thoroughly before deployment using automated testing.
+Monitor your AWS resources using CloudWatch and implement automated alerting.
+Use a version control system for your code and infrastructure to track changes and collaborate with your team.
